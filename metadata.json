@@ -1,0 +1,6 @@
+{
+  "name": "BACK TO YOU - College Lost & Found",
+  "description": "Smart College Campus Lost & Found Management Application with verified student ownership matching, secure handovers, and R Coins rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
